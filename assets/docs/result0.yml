@@ -1,0 +1,14 @@
+!!python/object/apply:collections.OrderedDict
+- - - '1'
+    - !!python/object/apply:collections.OrderedDict
+      - - - x
+          - !!python/object/apply:collections.OrderedDict
+            - - - 0
+                - - 1
+                  - 2
+                  - 3
+                  - 4
+        - - '1'
+          - !!python/object/apply:collections.OrderedDict
+            - - - 1
+                - null
